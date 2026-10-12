@@ -1,4 +1,8 @@
-# clef-finetuner
+# clef-finetuner — MERGED
+
+> **This project has been merged into [decisiontune-ai](https://github.com/alexwboles/decisiontune-ai)** (2026-10-12). All of its unique assets — the 24 HQ guardrail examples, the `--min-accuracy` CI gate, the GPU training guide, and the `media[]` multimodal schema reservation — now live there, alongside decisiontune-ai's broader multi-model support, Jev-API dashboard, and HTML eval reports. This repo is archived and read-only; use decisiontune-ai.
+
+# clef-finetuner (archived)
 
 Free, self-hosted LoRA fine-tuning + eval rig for Cloudflare's open-weight
 **Clef** decision models (Apache 2.0). Teaches Clef-flash your own decision
